@@ -1,4 +1,4 @@
-# Hellow there! 👐
+# Hello there! 👐
 
 Hi! I'm Lee Sang Hyun
 
