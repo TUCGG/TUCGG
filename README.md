@@ -2,7 +2,7 @@
 
 Hi! I'm Lee Sang Hyun
 
-I worked as a publisher for five years. And now i am a junior developer who turned to a front-end developer.
+I worked as a designer and publisher for five years. And now i am a junior developer who turned to a front-end developer.
 <br/>
 <br/>
 
