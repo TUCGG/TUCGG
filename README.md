@@ -23,7 +23,6 @@ I worked as a designer and publisher for five years. And now i am a junior devel
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </div>
 
 
